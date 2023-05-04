@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 
 ## Estos cambios son nuevos desde vsc
 
-## Cambios otros vsc 
+## cabios definitivos
