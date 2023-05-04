@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ## Modificacion desde GITHUB
 
 ## Estos cambios son nuevos desde vsc
+
+## Cambios otros vsc 
